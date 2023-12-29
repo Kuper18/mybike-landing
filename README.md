@@ -1,4 +1,3 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# My-Bike Landing Page: HTML, CSS(SCSS), BEM and Stylelint.
+Visually appealing and user-friendly landing page with a responsive design, burger menu, and grid layout.
+    - [DEMO LINK](https://Kuper18.github.io/mybike-landing/)
