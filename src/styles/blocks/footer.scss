@@ -3,10 +3,18 @@
   z-index: -1;
   bottom: 0;
 
-  padding-bottom: 50%;
+  height: 200px;
 
   background-image: url("../images/footer-bg.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+
+  @include onTablet {
+    height: 480px;
+  }
+
+  @include onDescktop {
+    height: 555px;
+  }
 }
